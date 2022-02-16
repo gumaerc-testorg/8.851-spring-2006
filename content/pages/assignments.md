@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7b14130f-4eb8-0fd4-4b10-1a7d3fbff8d7
 ---
@@ -87,7 +90,7 @@ Homework 5 ([PDF]({{< baseurl >}}/resources/homework5))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Renormalization of _cF (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _Xce![nu.](/courses/physics/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/assignments/v.jpg)_
+Renormalization of _c{{< sub "F" >}} (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _X{{< sub "c" >}}e![nu.](/courses/physics/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/assignments/v.jpg)_
 {{< tdclose >}}
 {{< tdopen >}}
 Homework 6 ([PDF]({{< baseurl >}}/resources/homework6))
@@ -111,7 +114,7 @@ Homework 7 ([PDF]({{< baseurl >}}/resources/homework7))
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Non-Relativistic QCD at the ILC, SCET Operators with Collinear Quarks, Decoupling of Ultrasoft Gluons in SCETI, Decoupling of Soft and Collinear Gluons in SCETII, Pion Light-Cone Distribution Function
+Non-Relativistic QCD at the ILC, SCET Operators with Collinear Quarks, Decoupling of Ultrasoft Gluons in SCET{{< sub "I" >}}, Decoupling of Soft and Collinear Gluons in SCET{{< sub "II" >}}, Pion Light-Cone Distribution Function
 {{< tdclose >}}
 {{< tdopen >}}
 Homework 8-9 ([PDF]({{< baseurl >}}/resources/homework89))
@@ -174,7 +177,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/homework4_s03))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Renormalization of _cF(µ)_, Heavy-to-Light Currents in HQET, Non-Perturbative Form Factor Corrections
+Renormalization of _c{{< sub "F" >}}(µ)_, Heavy-to-Light Currents in HQET, Non-Perturbative Form Factor Corrections
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/homework5_s03))
