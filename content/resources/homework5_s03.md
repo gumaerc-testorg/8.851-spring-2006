@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b14130f-4eb8-0fd4-4b10-1a7d3fbff8d7
 resourcetype: Document
 title: homework5_s03.pdf
 uid: b15892a3-468c-63ee-37ad-8273271d0816

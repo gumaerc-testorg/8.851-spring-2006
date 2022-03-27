@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c8b9b0bf-24dc-bc1f-24d1-aaf75e14c211
 resourcetype: Document
 title: scet3.pdf
 uid: cb699f25-4a3f-e2b0-d250-a1f3bddb67bf
