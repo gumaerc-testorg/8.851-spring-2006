@@ -1,13 +1,17 @@
 ---
 content_type: page
+description: The lecture notes section includes detailed lectures on Soft-Collinear
+  Effective Theory.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: c8b9b0bf-24dc-bc1f-24d1-aaf75e14c211
+video_metadata:
+  youtube_id: null
 ---
 
-The following lecture notes cover the lectures on Soft-Collinear Effective Theory. The lecture notes make reference to several papers, the citations for which appear below the table. For a single file containing all of the notes, download the Notes on Soft-Collinear Effective Theory. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet_2006))
+The following lecture notes cover the lectures on Soft-Collinear Effective Theory. The lecture notes make reference to several papers, the citations for which appear below the table. For a single file containing all of the notes, download the Notes on Soft-Collinear Effective Theory. ({{% resource_link b5902eac-1704-bfe7-51d9-21327ff7b797 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +34,7 @@ references
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Power Counting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet1))
+Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Power Counting ({{% resource_link f4e2cce0-1fb8-0f9b-a5fa-6acff94612c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[2\], \[3\]
@@ -42,7 +46,7 @@ Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Pow
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail (not in notes) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet2))
+Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail (not in notes) ({{% resource_link 72860090-8147-8635-1cc1-6a337110ac56 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[2\], \[3\], \[10\]
@@ -54,7 +58,7 @@ Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail
 24
 {{< tdclose >}}
 {{< tdopen >}}
-SCET\_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet3))
+SCET\_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) ({{% resource_link cb699f25-4a3f-e2b0-d250-a1f3bddb67bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[3\], \[1\], \[6\]
@@ -66,7 +70,7 @@ SCET\_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) (![This 
 25
 {{< tdclose >}}
 {{< tdopen >}}
-More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences, Matching, Running (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet4))
+More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences, Matching, Running ({{% resource_link eb0c8740-e6a9-aee7-d5f4-bb4f14614584 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[4\], \[1\], \[2\], \[3\]
@@ -78,7 +82,7 @@ More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infra
 26
 {{< tdclose >}}
 {{< tdopen >}}
-DIS, Soft-Collinear Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet5))
+DIS, Soft-Collinear Interactions ({{% resource_link 2cfe7437-f369-ff4a-6c61-a778d8365021 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 For DIS see \[8\]  
@@ -92,7 +96,7 @@ For Soft-Collinear Interactions see \[4\]
 27
 {{< tdclose >}}
 {{< tdopen >}}
-SCET\_II, Power Counting Formulae, Examples, Define a Jet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet6))
+SCET\_II, Power Counting Formulae, Examples, Define a Jet ({{% resource_link 80100e65-7542-8098-7882-9737e0264a01 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Fro SCET\_II see \[4\], \[7\], \[10\]  

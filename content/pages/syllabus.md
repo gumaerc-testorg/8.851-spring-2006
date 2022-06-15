@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria participation guidelines and a guide to the instructor?s evaluation
+  of case write-ups.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: cd23b26b-9c84-fc24-d4cd-7883d29dfbbf
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -23,7 +28,7 @@ Main Textbook
 
 Manohar, A., and M. Wise. _Heavy Quark Physics._ Cambridge, UK; New York City, NY: Cambridge University Press, 2000. ISBN: 9780521642415 (hb).
 
-For other references, see the [readings]({{< baseurl >}}/pages/readings) sections.
+For other references, see the {{% resource_link 28cbfc1a-b891-8322-e854-3015bdb5a200 "readings" %}} sections.
 
 Assignments
 -----------
