@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: Suggested references and reading assignments.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 28cbfc1a-b891-8322-e854-3015bdb5a200
+video_metadata:
+  youtube_id: null
 ---
 
 Course Text
@@ -167,7 +173,7 @@ The deuteron e.m. form factor, nucl-th/9804032: Kaplan, David B., Martin J. Sava
 21-27
 {{< tdclose >}}
 {{< tdopen >}}
-Read my "[Notes on Soft-Collinear Effective Theory]({{< baseurl >}}/pages/lecture-notes)."
+Read my "{{% resource_link c8b9b0bf-24dc-bc1f-24d1-aaf75e14c211 "Notes on Soft-Collinear Effective Theory" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}

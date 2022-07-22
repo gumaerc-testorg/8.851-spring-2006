@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: A description of the project and suggested presentation topics.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 0405c0a7-faf5-2250-d259-e65f1d038f06
+video_metadata:
+  youtube_id: null
 ---
 
 I would like each of you to have the opportunity to explore an effective field theory subject on your own and give a short presentation to the rest of the class. The goal of your presentation is to teach it to your fellow students at a level they can understand without having done background reading. The subject of effective field theory is rich and diverse, and far broader than I will be able to cover in one semester. The presentations will create an opportunity for you to learn about additional subjects beyond those in lecture. They will take place on a date near the end of the semester. (If someone has a strong preference they may substitute additional problem sets in place of a presentation.) Below is a list of possible topics. If you prefer you are free to come up with your own. For each of the ones below a reference to start you off is listed. I imagine that taken far enough some of your projects could be turned into research that leads to a publishable paper (though for the class you are only required to report on research from the literature).
