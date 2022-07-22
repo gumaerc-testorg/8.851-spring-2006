@@ -8,6 +8,7 @@ file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains exercise questions based on: Non-Relativistic QCD at the ILC, SCET Operators with Collinear Quarks, Decoupling of Ultrasoft Gluons in SCETI, Decoupling of Soft and Collinear Gluons in SCETII, Pion Light-Cone Distribution Function.
-

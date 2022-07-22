@@ -7,6 +7,7 @@ file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the exercise questions based on the topics: One-loop Exact ?-function in NN EFT, Deuteron Electromagnetic Form Factor, Counting Operators with Group Theory.
-
