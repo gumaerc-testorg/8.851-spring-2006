@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains exercise based on the topics: Chiral Perturbation
   Theory and Decay Constants.'
 file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/ba0e250e0aabc156331914d7b529b7cb_homework4.pdf
+file_size: 38979
 file_type: application/pdf
 learning_resource_types:
 - Assignments

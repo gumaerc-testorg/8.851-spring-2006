@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains notes for the topics: Power Counting Formulae, Examples,
   Define a Jet.'
 file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/80100e657542809878829737e0264a01_scet6.pdf
+file_size: 221829
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
