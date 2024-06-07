@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for label residual.
 file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/cb699f254a3fe2b0d250a1f3bddb67bf_scet3.pdf
+file_size: 121797
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

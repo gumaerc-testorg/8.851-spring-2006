@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains exercise based on: Mixing and 4-quark Operators,
   Electric Dipole Moments in the Standard Model, Operators for b - sv.'
 file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/3934cce656aa302d29d03d920d735a9a_homework3.pdf
+file_size: 42102
 file_type: application/pdf
 learning_resource_types:
 - Assignments
