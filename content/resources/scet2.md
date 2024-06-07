@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes for currents.
 file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/72860090814786351cc16a337110ac56_scet2.pdf
+file_size: 98790
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
