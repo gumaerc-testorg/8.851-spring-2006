@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains exercise based on the topic: Field Redefinitions,
   Running Quark Masses and Renormalons.'
-file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/b7c476182f5bbf3666b3ea71d0f19864_homework2.pdf
+file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/b7c476182f5bbf3666b3ea71d0f19864_homework2.pdf
 file_size: 54087
 file_type: application/pdf
 learning_resource_types:
