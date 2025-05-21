@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains the exercise questions based on the topics: One-loop
   Exact ?-function in NN EFT, Deuteron Electromagnetic Form Factor, Counting Operators
   with Group Theory.'
-file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/c672538f67b0cf7ee81969b1eac517bb_homework7.pdf
+file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/c672538f67b0cf7ee81969b1eac517bb_homework7.pdf
 file_size: 37825
 file_type: application/pdf
 learning_resource_types:
