@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the exercise based on the topics: Renormalization
   of cF (?), Heavy-to-Light Currents in HQET, OPE for B ? Xce.'
-file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/b15892a3468c63ee37ad8273271d0816_homework5_s03.pdf
+file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/b15892a3468c63ee37ad8273271d0816_homework5_s03.pdf
 file_size: 58313
 file_type: application/pdf
 learning_resource_types:
