@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains notes for the topics: Reparameterization Invariance,
   Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences,
   Matching, Running.'
-file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/eb0c8740e6a9aee7d5f4bb4f14614584_scet4.pdf
+file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/eb0c8740e6a9aee7d5f4bb4f14614584_scet4.pdf
 file_size: 158158
 file_type: application/pdf
 learning_resource_types:

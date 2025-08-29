@@ -4,7 +4,7 @@ description: 'This file contains exercise questions based on: Non-Relativistic Q
   at the ILC, SCET Operators with Collinear Quarks, Decoupling of Ultrasoft Gluons
   in SCETI, Decoupling of Soft and Collinear Gluons in SCETII, Pion Light-Cone Distribution
   Function.'
-file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/8bb71e898f31935dda15661c213b78a1_homework89.pdf
+file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/8bb71e898f31935dda15661c213b78a1_homework89.pdf
 file_size: 100890
 file_type: application/pdf
 learning_resource_types:
