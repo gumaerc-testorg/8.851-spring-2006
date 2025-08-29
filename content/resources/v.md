@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for Problem Set 6.
-file: /courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/8d34e48f087a945556fba082f52ddb00_v.jpg
+file: /ol-ocw-studio-app/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/8d34e48f087a945556fba082f52ddb00_v.jpg
 file_size: 8515
 file_type: image/jpeg
 image_metadata:
