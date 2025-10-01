@@ -117,28 +117,28 @@ The links below are to abstracts of the corresponding scientific papers.
 References
 ----------
 
-\[1\] Bauer, C. W., S. Fleming, and M. Luke (University of Toronto). "[Summing Sudakov logarithms in B -> X\_s + gamma in effective field theory](http://de.arxiv.org/abs/hep-ph/0005275)." _Physics Review_ D63 (2001): 014006.
+\[1\] Bauer, C. W., S. Fleming, and M. Luke (University of Toronto). "{{% resource_link "632b8fa1-bbf4-4211-9a2c-ccd34422a73b" "Summing Sudakov logarithms in B -> X\_s + gamma in effective field theory" %}}." _Physics Review_ D63 (2001): 014006.
 
-\[2\] Bauer, Christian W., Sean Fleming, Dan Pirjol, and Iain W. Stewart. "[An effective field theory for collinear and soft gluons: heavy to light decays](http://de.arxiv.org/abs/hep-ph/0011336)." _Physical Review_ D63 (2001): 114020.
+\[2\] Bauer, Christian W., Sean Fleming, Dan Pirjol, and Iain W. Stewart. "{{% resource_link "fa17769a-4a66-4f10-b166-cf4029c1186c" "An effective field theory for collinear and soft gluons: heavy to light decays" %}}." _Physical Review_ D63 (2001): 114020.
 
-\[3\] Bauer, Christian W., and Iain W. Stewart. "[Invariant Operators in Collinear Effective Theory](http://de.arxiv.org/abs/hep-ph/0107001)." _Physics Letters_ B516 (2001): 134.
+\[3\] Bauer, Christian W., and Iain W. Stewart. "{{% resource_link "98bda524-0589-44d9-9f6a-6f7cf923578a" "Invariant Operators in Collinear Effective Theory" %}}." _Physics Letters_ B516 (2001): 134.
 
-\[4\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "[Soft-Collinear Factorization in Effective Field Theory](http://de.arxiv.org/abs/hep-ph/0109045)." _Physical Review_ D65 (2002): 054022.
+\[4\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "{{% resource_link "9b7896b0-8b7f-4220-8707-80351bfc2c41" "Soft-Collinear Factorization in Effective Field Theory" %}}." _Physical Review_ D65 (2002): 054022.
 
-\[5\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "[Power Counting in the Soft-Collinear Effective Theory](http://de.arxiv.org/abs/hep-ph/0205289)." _Physical Review_ D66 (2002): 054005.
+\[5\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "{{% resource_link "265893d1-7154-4ce0-b9ec-9f107213c511" "Power Counting in the Soft-Collinear Effective Theory" %}}." _Physical Review_ D66 (2002): 054005.
 
-\[6\] Manohar, Aneesh V., Thomas Mehen, Dan Pirjol, and Iain W. Stewart. "[Reparameterization Invariance for Collinear Operators](http://de.arxiv.org/abs/hep-ph/0204229)." _Physics Letters_ B539 (2002): 59.
+\[6\] Manohar, Aneesh V., Thomas Mehen, Dan Pirjol, and Iain W. Stewart. "{{% resource_link "049f42ed-4c25-4bf4-946f-3a2373b0ddca" "Reparameterization Invariance for Collinear Operators" %}}." _Physics Letters_ B539 (2002): 59.
 
-\[7\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "[On Power Suppressed Operators and Gauge Invariance in SCET](http://de.arxiv.org/abs/hep-ph/0303156)." _Physical Review_ D68 (2003): 034021.
+\[7\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "{{% resource_link "3fc3cef8-9883-43cd-af61-d7ade63008db" "On Power Suppressed Operators and Gauge Invariance in SCET" %}}." _Physical Review_ D68 (2003): 034021.
 
-\[8\] Bauer, Christian W., Sean Fleming, Dan Pirjol, Ira Z. Rothstein, and Iain W. Stewart. "[Hard Scattering Factorization from Effective Field Theory](http://de.arxiv.org/abs/hep-ph/0202088)." _Physical Review_ D66 (2002): 014017.
+\[8\] Bauer, Christian W., Sean Fleming, Dan Pirjol, Ira Z. Rothstein, and Iain W. Stewart. "{{% resource_link "c1d4fbfd-4446-4bb3-982a-ab8e5c41f161" "Hard Scattering Factorization from Effective Field Theory" %}}." _Physical Review_ D66 (2002): 014017.
 
-\[9\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "[A proof of factorization for B -> D pi](http://de.arxiv.org/abs/hep-ph/0107002)." _Physical Review Letters_ 87 (2001): 201806.
+\[9\] Bauer, Christian W., Dan Pirjol, and Iain W. Stewart. "{{% resource_link "193a296e-bf60-4a4e-a8da-d63f7e87747b" "A proof of factorization for B -> D pi" %}}." _Physical Review Letters_ 87 (2001): 201806.
 
-\[10\] Manohar, Aneesh V., and Iain W. Stewart. "[The Zero-Bin and Mode Factorization in Quantum Field Theory](http://de.arxiv.org/abs/hep-ph/0605001)." 2006.
+\[10\] Manohar, Aneesh V., and Iain W. Stewart. "{{% resource_link "2628a167-a2c0-43fd-af43-2447d5905b33" "The Zero-Bin and Mode Factorization in Quantum Field Theory" %}}." 2006.
 
-\[11\] Bauer, Christian W., Aneesh V. Manohar, and Mark B. Wise. "[Enhanced nonperturbative effects in jet distributions](http://de.arxiv.org/abs/hep-ph/0212255)." _Physical Review Letters_ 91 (2003): 122001.
+\[11\] Bauer, Christian W., Aneesh V. Manohar, and Mark B. Wise. "{{% resource_link "beda1c13-4843-47d9-a125-b238bc68e8b4" "Enhanced nonperturbative effects in jet distributions" %}}." _Physical Review Letters_ 91 (2003): 122001.
 
 \[12\] Sterman, George. _An Introduction to Quantum Field Theory_. New York, NY: Cambridge University Press, 1993. ISBN: 9780521322584 (hardback), 9780521311328 (pbk.).
 
-Lee, Christopher, and George Sterman. "[Universality of Nonperturbative Effects in Event Shapes](http://de.arxiv.org/abs/hep-ph/0603066)." 2006.
+Lee, Christopher, and George Sterman. "{{% resource_link "c1acc1a7-d78a-4d96-8c31-a8e754a3d8e7" "Universality of Nonperturbative Effects in Event Shapes" %}}." 2006.
